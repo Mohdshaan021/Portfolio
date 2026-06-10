@@ -76,7 +76,7 @@ Hi, I'm Mohd Shaan, a Software Developer passionate about building web applicati
 ---
 ## 🔗 Live Demo
 
-Portfolio Link: https://portfolioshaan021.netlify.app/
+Portfolio Link: https://portfolioshaan021.netlify.app/#projects
 ```
 
 ---
