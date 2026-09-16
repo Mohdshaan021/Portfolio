@@ -65,6 +65,7 @@ Hi, I'm Mohd Shaan, a Software Developer passionate about building web applicati
 # Database
 
 * MySQL
+* mongoDB
 * Sequelize
 
 ### Tools
